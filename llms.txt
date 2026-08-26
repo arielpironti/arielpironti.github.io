@@ -58,7 +58,7 @@ Engineering Management, Technical Leadership, Software Architecture, Enterprise 
 
 ## Technology stack
 
-.NET, .NET Core, C#, Angular, TypeScript, JavaScript, SQL Server, MySQL, MongoDB, Elasticsearch, RabbitMQ, Docker, Git, Azure, Azure DevOps and CI/CD.
+.NET, .NET Core, C#, Angular, TypeScript, JavaScript, SQL Server, MySQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Docker, Git, Azure, Azure DevOps, AWS and CI/CD.
 
 ## Education
 

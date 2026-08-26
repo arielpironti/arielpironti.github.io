@@ -1,77 +1,20 @@
 # Ariel Oscar Pironti
 
-> Engineering Manager, Software Architect and Agentic AI practitioner based in Buenos Aires, Argentina.
+> Engineering Manager and Software Architect with 14+ years of experience in enterprise software, .NET, distributed systems, engineering leadership, DevOps, cloud platforms, and agentic AI systems.
 
-Canonical profile: https://arielpironti.github.io/
-LinkedIn: https://www.linkedin.com/in/arielpironti/
+This is the professional website and curriculum vitae of Ariel Oscar Pironti. The primary source for professional information is the website below; a Markdown version is provided for language models, agents, and text-based tooling.
 
-## Professional profile
+## Key Resources
 
-Ariel Oscar Pironti is an Engineering Manager and Software Architect with 14+ years of professional software engineering experience. His background combines hands-on .NET and backend engineering, distributed systems, software architecture, engineering leadership, DevOps, platform modernization and agentic AI systems.
+- [Professional Website](https://arielpironti.github.io/): Main professional profile, current role, career history, technology stack, education, languages, expertise, and contact information.
+- [AI-readable Professional Profile](https://arielpironti.github.io/profile.md): Markdown representation of the professional profile and career history.
+- [LinkedIn](https://www.linkedin.com/in/arielpironti/): Professional networking and employment profile.
 
-Current professional focus includes engineering management, architecture governance, cross-functional team leadership, technical strategy, CI/CD, reliability, observability, incident management, legacy modernization and AI-assisted software engineering.
+## Core Expertise
 
-## Current role
+Engineering Management, Technical Leadership, Software Architecture, Enterprise Software, Distributed Systems, Microservices, REST APIs, .NET, C#, Azure, AWS, DevOps, CI/CD, Legacy Modernization, Agentic AI, Multi-Agent Systems, LLM Orchestration, Model Context Protocol (MCP), Context Engineering, Agent Memory, Hybrid Retrieval, and AI-Assisted Software Engineering.
 
-### Engineering Manager — StackOverFlight
-May 2025 — Present
+## Site Resources
 
-Responsibilities and areas of focus include:
-
-- Leadership of several cross-functional engineering teams.
-- Alignment of engineering execution with product and business priorities.
-- Software architecture and engineering standards.
-- Mentoring and support for Tech Leads.
-- 1:1s, performance reviews, coaching, hiring and onboarding.
-- CI/CD pipelines, branching strategies, release management and environment governance.
-- Collaboration with CTO, Product Managers, Account Managers and stakeholders.
-- Automation, observability, reliability, incident management and technical training.
-
-## Agentic AI Engineering
-
-Areas of practical work and research include:
-
-- Agentic AI systems.
-- Multi-agent software engineering workflows.
-- Specialized analyst, builder and validator agent roles.
-- LLM orchestration.
-- Model Context Protocol (MCP).
-- Context engineering.
-- Long-term memory for software agents.
-- Hybrid semantic and lexical retrieval.
-- Agent governance and controlled-write workflows.
-- Retrieval confidence, validation loops and re-ranking.
-- AI-assisted software engineering.
-
-## Career history
-
-- Engineering Manager — StackOverFlight — May 2025 to Present
-- Tech Lead — Newshore (FlyR) — Jan 2023 to Mar 2025
-- .NET Tech Lead — Cloud(X) — Jan 2021 to Dec 2022
-- Senior Backend Developer (.NET) — Bsf SA — Jan 2019 to Dec 2020
-- Senior Backend Developer (.NET) — Lagash System SA — Feb 2018 to Jan 2019
-- .NET Developer — Origin Software SA — Nov 2011 to Feb 2018
-
-## Core expertise
-
-Engineering Management, Technical Leadership, Software Architecture, Enterprise Software, Distributed Systems, Microservices, REST APIs, Legacy Modernization, Cloud Engineering, DevOps, CI/CD, Observability, Reliability, Agentic AI, Multi-Agent Systems, LLM Orchestration, MCP, Context Engineering, Agent Memory and AI-Assisted Software Engineering.
-
-## Technology stack
-
-.NET, .NET Core, C#, Angular, TypeScript, JavaScript, SQL Server, MySQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Docker, Git, Azure, Azure DevOps, AWS and CI/CD.
-
-## Education
-
-Computer Engineering — University of Buenos Aires.
-
-## Languages
-
-- Spanish — Native
-- English — Intermediate
-
-## Contact
-
-- Website: https://arielpironti.github.io/
-- LinkedIn: https://www.linkedin.com/in/arielpironti/
-- Email: arieloscarpironti@gmail.com
-- Location: Buenos Aires, Argentina
+- [Sitemap](https://arielpironti.github.io/sitemap.xml): Public sitemap for search-engine discovery.
+- [Robots.txt](https://arielpironti.github.io/robots.txt): Crawling directives for automated agents and search engines.
